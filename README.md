@@ -8,13 +8,13 @@
 
 본 프로젝트에서는 로스트아크의 [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset) 데이터셋을 사용하였습니다.
 
-[![korean_unsmile_dataset](이미지_URL)](https://github.com/korean_internet_hatting_classifier/blob/main/data/korean_unsmile_dataset/rsc/unsmile_logo.jpg)
+[![korean_unsmile_dataset](이미지_URL)](https://github.com/smilegate-ai/korean_unsmile_dataset/rsc/unsmile_logo.jpg)
 
 > 이미지를 클릭하면 데이터셋에 대한 자세한 내용을 볼 수 있습니다.
 
 ## 자세한 내용
 
-프로젝트에 대한 자세한 내용은 첨부된 [PPT](PPT_링크_URL)를 참고해주세요.
+프로젝트에 대한 자세한 내용은 첨부된 파일을 참고해주세요.
 
 [1차 프로젝트 발표 PPT 다운로드](1차-프로젝트-발표.pptx)
 
